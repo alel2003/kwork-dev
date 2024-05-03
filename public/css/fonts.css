@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "MADE Evolve Sans EVO";
+  src: url("../fonts/madeevolvesansevo_light.otf") format("opentype");
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MADE Evolve Sans EVO";
+  src: url("../fonts/madeevolvesansevo_medium.otf") format("opentype");
+  font-weight: 500;
+  font-display: swap;
+}
